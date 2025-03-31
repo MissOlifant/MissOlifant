@@ -1,10 +1,10 @@
 # <div align="center">✨ **Hi there! Welcome to my GitHub Profile** ✨</div>  
-<div align="center">👋 I'm a passionate third-year **IT Student** specializing in **Cybersecurity, Software Development**, and **Web Development**!</div>  
+<div align="center">👋 I'm a passionate IT Student GRADUATE specializing in Cybersecurity, Software Development, and Web Development!</div>  
 
 ---
 
 ## 🛠️ **About Me**  
-- 🎓 **Education**: Studying at **VUT**, majoring in **Software** and **Web Development**.  
+- 🎓 **Education**: Diploma in Information Technology at **VUT**, majoring in **Software** and **Web Development**.  
 - 🔐 **Focus**: Currently learning in **Cybersecurity**, with practical experience in **CCNA** and did **System Software** via Cisco Networking Academy.  
 
 ## 🌟 **Skills**  
