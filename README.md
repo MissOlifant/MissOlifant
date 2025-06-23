@@ -1,17 +1,19 @@
 # <div align="center">✨ **Hi there! Welcome to my GitHub Profile** ✨</div>  
-<div align="center">👋 I'm a passionate IT Student GRADUATE specializing in Cybersecurity, Software Development, and Web Development!</div>  
+<div align="center">👋 I'm a passionate IT GRADUATE specializing in Cybersecurity, Software Development, and Web Development!</div>  
 
 ---
 
 ## 🛠️ **About Me**  
-- 🎓 **Education**: Diploma in Information Technology at **VUT**, majoring in **Software** and **Web Development**.  
-- 🔐 **Focus**: Currently learning in **Cybersecurity**, with practical experience in **CCNA** and did **System Software** via Cisco Networking Academy.  
+- 🎓 **Education**: Obtained Diploma in Information Technology at **VUT**, majoring in **Software** and **Web Development**.  
+- 🔐 **Focus**: Currently learning in **AI**, **Cybersecurity**, with practical experience in **CCNA** and did **System Software** via Cisco Networking Academy.  
 
 ## 🌟 **Skills**  
 ### **Languages & Tools**  
 - **Programming**: `JavaScript`, `HTML`, `CSS`.  
 - **Networking**: CCNA-certified concepts.  
-- **Databases**: Basic SQL knowledge.  
+- **Databases**: Basic SQL knowledge.
+- **Statistics**: SPSS
+- **Others**: Can create a Chatbot using **Microsoft bot framework**, **Chatling**, **DiaologFlow** and I also use **OpenAI**, **Gemini API**.
 
 ### **Soft Skills**  
 - 🗣️ Strong **presentation** and **peer education** skills.  
@@ -21,7 +23,7 @@
 ---
 
 ## 🌱 **What I’m Currently Working On**  
-I’m currently learning about app development, SQL, and UX design, with a focus on enhancing my skills in cybersecurity.
+I’m currently learning about AI, Chatbots, and PowerBI, with a focus on enhancing my skills in cybersecurity.
 
 ## 🎯 **Goals**  
 - 🚀 Master **Cybersecurity tools**, including **ethical hacking** techniques.  
