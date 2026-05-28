@@ -1,4 +1,4 @@
-<div align="center">✨ *Hi there! Welcome to my GitHub Profile* ✨</div>  
+<div align="center">✨ Hi there! Welcome to my GitHub Profile ✨</div>  
 <div align="center">👋 I'm an IT graduate specializing in Cybersecurity, Software Development, and Web Development.</div>  
 
 ---
