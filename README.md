@@ -1,42 +1,62 @@
-# <div align="center">✨ **Hi there! Welcome to my GitHub Profile** ✨</div>  
-<div align="center">👋 I'm a passionate IT GRADUATE specializing in Cybersecurity, Software Development, and Web Development!</div>  
+<div align="center">✨ **Hi there! Welcome to my GitHub Profile** ✨</div>  
+<div align="center">👋 I'm an IT graduate specializing in Cybersecurity, Software Development, and Web Development.</div>  
 
 ---
 
 ## 🛠️ **About Me**  
-- 🎓 **Education**: Obtained Diploma in Information Technology at **VUT**, majoring in **Software** and **Web Development**.  
-- 🔐 **Focus**: Currently learning in **AI**, **Cybersecurity**, with practical experience in **CCNA** and did **System Software** via Cisco Networking Academy.  
-
-## 🌟 **Skills**  
-### **Languages & Tools**  
-- **Programming**: `JavaScript`, `HTML`, `CSS`.  
-- **Networking**: CCNA-certified concepts.  
-- **Databases**: Basic SQL knowledge.
-- **Statistics**: SPSS
-- **Others**: Can create a Chatbot using **Microsoft bot framework**, **Chatling**, **DiaologFlow** and I also use **OpenAI**, **Gemini API**.
-
-### **Soft Skills**  
-- 🗣️ Strong **presentation** and **peer education** skills.  
-- 🤝 Effective **teamwork** and **project management** abilities.  
-- 🌍 Focused on making an **impact** through real-world IT solutions.  
+- 🎓 **Education**: Diploma in Information Technology from **Vaal University of Technology (VUT)**, majoring in **Software Development** and **Web Development**.  
+- 🔐 **Focus Areas**: Cybersecurity, Artificial Intelligence, and Software Engineering.  
+- 🌐 **Training**: Cisco Networking Academy (CCNA concepts & System Software training).  
 
 ---
 
-## 🌱 **What I’m Currently Working On**  
-I’m currently learning about AI, Chatbots, and PowerBI, with a focus on enhancing my skills in cybersecurity.
+## 💻 **Technical Skills**  
+
+### **Programming & Web Development**  
+- JavaScript  
+- HTML  
+- CSS  
+
+### **Networking & Cybersecurity**  
+- CCNA fundamentals  
+- Network troubleshooting concepts  
+- Cybersecurity awareness & basic ethical hacking principles  
+
+### **Databases & Data Tools**  
+- Basic SQL  
+- SPSS (Statistical analysis)  
+
+### **AI & Development Tools**  
+- Chatbot development (Microsoft Bot Framework, Chatling, Dialogflow)  
+- API integration (OpenAI, Gemini API)  
+
+---
+
+## 🤝 **Soft Skills**  
+- Strong communication & presentation skills  
+- Team collaboration & project coordination  
+- Problem-solving and analytical thinking  
+- Passion for building practical IT solutions  
+
+---
+
+## 🌱 **Currently Working On**  
+- Artificial Intelligence and chatbot development  
+- Cybersecurity fundamentals and tools  
+- Power BI for data analysis and visualization  
+
+---
 
 ## 🎯 **Goals**  
-- 🚀 Master **Cybersecurity tools**, including **ethical hacking** techniques.  
-- 🤖 Build projects that combine **AI** and **data-driven insights** to solve world challenges.  
+- Build strong expertise in **Cybersecurity (ethical hacking & SOC fundamentals)**  
+- Develop real-world **AI and automation projects**  
+- Grow into a well-rounded **Software Engineer / Cybersecurity professional**  
 
 ---
 
-## 📫 **How to Reach Me**  
-Feel free to connect with me on GitHub or reach out for collaboration opportunities! 🌟  
-- 📧 Email: *[onombulelomartha@gmail.com]*  
-    
+## 📫 **Contact Me**  
+- 📧 Email: onombulelomartha@gmail.com  
 
 ---
 
-<div align="center">🌍 **Let’s build something amazing together!** 💡✨</div>
-
+<div align="center">🌍 Let’s build innovative and impactful technology together 💡</div>
